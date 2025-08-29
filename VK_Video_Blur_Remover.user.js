@@ -8,8 +8,8 @@
 // @match        https://vkvideo.ru/*
 // @grant        none
 // @run-at       document-start
-// @updateURL    https://raw.githubusercontent.com/ВАШ_НИК/vk-video-enhancer/main/VK_Video_Blur_Remover.user.js
-// @downloadURL  https://raw.githubusercontent.com/ВАШ_НИК/vk-video-enhancer/main/VK_Video_Blur_Remover.user.js
+// @updateURL    https://raw.githubusercontent.com/BrezzeLevsky/vk-video-enhancer/main/VK_Video_Blur_Remover.user.js
+// @downloadURL  https://raw.githubusercontent.com/BrezzeLevsky/vk-video-enhancer/main/VK_Video_Blur_Remover.user.js
 // ==/UserScript==
 
 (function() {
