@@ -17,7 +17,7 @@
 
 Это единственный скрипт в репозитории, который включает в себя всю необходимую логику.
 
-* ➡️ **[Нажмите сюда, чтобы установить Userscript](https://raw.githubusercontent.com/boris-fadeev/vk-video-enhancer/main/VK_Video_Blur_Remover.user.js)**
+* ➡️ **[Нажмите сюда, чтобы установить Userscript](https://raw.githubusercontent.com/BrezzeLevsky/vk-video-enhancer/main/VK_Video_Blur_Remover.user.js)**
 
 ## 🛠️ Как установить
 
